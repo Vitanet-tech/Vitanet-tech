@@ -7,7 +7,8 @@
 - 📫 How to reach me: vitalsibekwe@gmail.com
 - ⚡ Fun fact: I laugh alot
 
-- ✨About my career line
+- ✨About my career line.
+- 
 As a Cloud/DevOps Engineer, I have extensive experience in managing and deploying cloud infrastructure, implementing continuous integration and delivery pipelines, and automating infrastructure provisioning. I possess strong skills in scripting and programming languages such as Python, PowerShell, and Bash, as well as experience with containerization technologies like Docker and Kubernetes. I am also adept at troubleshooting and problem-solving in complex cloud environments, ensuring high availability and scalability. My ultimate goal is to enable development teams to release software rapidly, securely, and with confidence in the cloud.
 
 <!--
