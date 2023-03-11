@@ -3,7 +3,7 @@
 - 🔭 I’m passionate about DevOps concepts,Cloud Technologies (AWS/Azure),and Security operations. 
 - 🌱 I’m currently learning more about Microservices
 - 👯 I’m looking to collaborate on cloud solutions building, deployment and management.
-- 💬 Ask me about Microsoft cloud services
+- 💬 Ask me about Azure, AWS, DevOps concepts, CICD, Docker
 - 📫 How to reach me: vitalsibekwe@gmail.com
 - ⚡ Fun fact: I laugh alot
 
