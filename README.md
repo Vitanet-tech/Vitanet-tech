@@ -1,5 +1,5 @@
-### Welcome to my Hub.
-- 👋 Hi, I’m Vitalis Ibekwe.
+### 👋 Hi, Welcome to my Hub.
+- --- I’m Vitalis Ibekwe.
 - 🔭 I’m passionate about DevOps concepts,Cloud Technologies (AWS/Azure),and Security operations. 
 - 🌱 I’m currently learning more about Microservices
 - 👯 I’m looking to collaborate on cloud solutions building, deployment and management.
